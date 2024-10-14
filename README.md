@@ -23,3 +23,28 @@ Pod, Service and Deployment will be created as shown in the screenshot attached 
 Finally we can access the Responsive Website as shown in the screenshot attached below.
 
 ![image](https://github.com/user-attachments/assets/caa7ea64-aad8-4995-ba3e-64aec8687eda)
+<br></br>
+<br></br>
+```
+OpenJDK Docker Image is depricated so in this project eclipse-temurin docker image has been used as a base image in the Dockerfile. 
+```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+```
+Source Code:-  https://github.com/kamalmohan217/Java_Gradle_Responsive_Website.git
+
+Helm Chart:-   https://github.com/kamalmohan217/helm-repo-for-ArgoCD.git 
+```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+```
+Reference:-   https://github.com/Krishnamohan-Yerrabilli/Java_Gradle_Responsive_Website.git
+```
